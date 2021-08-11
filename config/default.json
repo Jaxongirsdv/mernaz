@@ -1,0 +1,4 @@
+{
+  "mongoURI":
+    "mongodb+srv://jahongirsdv:7096420j@cluster0.eafex.mongodb.net/mernaz?retryWrites=true&w=majority"
+}
